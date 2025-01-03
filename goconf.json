@@ -1,0 +1,9 @@
+{
+  "mySQL": {
+    "user": "root",
+    "password": "password"
+  },
+  "goOptions": {
+    "serverPort": "8080"
+  }
+}
